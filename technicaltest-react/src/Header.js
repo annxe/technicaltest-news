@@ -16,11 +16,11 @@ function Header() {
           <ul class="flex flex-wrap">
             <li class="mr-5 md:mr-5 pr-5 font-bold text-gray-400"><p>Selecione um filtro:</p></li>
             <li class="mr-5 pr-5 text-amber-600 border-r-2"><a href="">Entretenimento</a></li>
-            <li class="mr-5 pr-5 text-fuchsia-800 border-r-2"><a href="produtos.html">Saúde</a></li>
-            <li class="mr-5 pr-5 text-sky-300 border-r-2"><a href="contato.html">Geral</a></li>
-            <li class="mr-5 pr-5 text-blue-800 border-r-2"><a href="contato.html">Ciência</a></li>
-            <li class="mr-5 pr-5 text-green-500 border-r-2"><a href="contato.html">Esportes</a></li>
-            <li class="mr-5 pr-5 ext-violet-800"><a href="contato.html">Tecnologia</a></li>
+            <li class="mr-5 pr-5 text-fuchsia-800 border-r-2"><a href="">Saúde</a></li>
+            <li class="mr-5 pr-5 text-sky-300 border-r-2"><a href="">Geral</a></li>
+            <li class="mr-5 pr-5 text-blue-800 border-r-2"><a href="">Ciência</a></li>
+            <li class="mr-5 pr-5 text-green-500 border-r-2"><a href="">Esportes</a></li>
+            <li class="mr-5 pr-5 ext-violet-800"><a href="">Tecnologia</a></li>
           </ul>
         </div>
       </header>
