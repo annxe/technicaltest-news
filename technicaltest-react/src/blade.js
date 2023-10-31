@@ -8,50 +8,46 @@ function Blade() {
                 <p class="font-bold py-2">Mais lidas da semana</p>
                 <ul>
                     <li>
-                        <div class="grid grid-cols-2 gap-4 shadow-md p-6 items-end">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 shadow-md p-6 items-end md:flex-row md:flex-col">
                             <div class="self-start">
-                                <h2 class="text-3xl font-bold mb-2"> Título da Notícia</h2>
-                                <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor a libero auctor commodo. Integer id lectus odio.</p>
-                                <span class="text-gray-500 self-end" >Publicado em: 23/10/2021</span>
+                                <h2 class="text-3xl font-bold mb-2">Explosão deixa mortos em campo de refugiados em Gaza</h2>
+                                <span class="text-gray-500" >Out 23, 2023</span>
                             </div>                                
-                            <div class="">
+                            <div class="self-center md:self-end">
                                 <img src="/noticiaprincipal.jpg" alt="Notícia" class="rounded"></img>
                             </div>
                         </div>
                     </li>
                     <li>
-                        <div class="grid grid-cols-2 gap-4 shadow-md p-6 items-end">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 shadow-md p-6 items-end md:flex-row md:flex-col">
                             <div class="self-start">
-                                <h2 class="text-3xl font-bold mb-2"> Título da Notícia</h2>
-                                <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor a libero auctor commodo. Integer id lectus odio.</p>
-                                <span class="text-gray-500 self-end" >Publicado em: 23/10/2021</span>
+                                <h2 class="text-3xl font-bold mb-2">Ministério israelense sugere enviar toda a população de Gaza ao Egito</h2>
+                                <span class="text-gray-500" >Out 31, 2023</span>
                             </div>                                
-                            <div class="">
+                            <div class="self-center md:self-end">
                                 <img src="/noticiaprincipal.jpg" alt="Notícia" class="rounded"></img>
                             </div>
                         </div>
                     </li>
                     <li>
-                        <div class="grid grid-cols-2 gap-4 shadow-md p-6 items-end">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 shadow-md p-6 items-end md:flex-row md:flex-col">
                             <div class="self-start">
-                                <h2 class="text-3xl font-bold mb-2"> Título da Notícia</h2>
-                                <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor a libero auctor commodo. Integer id lectus odio.</p>
-                                <span class="text-gray-500 self-end" >Publicado em: 23/10/2021</span>
+                                <h2 class="text-3xl font-bold mb-2">Indígena é achado morto no Pará duas semanas após fazer denúncia na ONU</h2>
+                                <span class="text-gray-500">Out 31, 2023</span>
                             </div>                                
-                            <div class="">
-                                <img src="/noticiaprincipal.jpg" alt="Notícia" class="rounded"></img>
+                            <div class="self-center md:self-end">
+                                <img src="/indigena-arara.jpg" alt="Notícia" class="rounded"></img>
                             </div>
                         </div>
                     </li>
                     <li>
-                        <div class="grid grid-cols-2 gap-4 shadow-md p-6 items-end">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 shadow-md p-6 items-end md:flex-row md:flex-col">
                             <div class="self-start">
-                                <h2 class="text-3xl font-bold mb-2"> Título da Notícia</h2>
-                                <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel tortor a libero auctor commodo. Integer id lectus odio.</p>
-                                <span class="text-gray-500 self-end" >Publicado em: 23/10/2021</span>
+                                <h2 class="text-3xl font-bold mb-2">Passo a passo: como consultar local de prova do Enem</h2>
+                                <span class="text-gray-500">Out 31, 2023</span>
                             </div>                                
-                            <div class="">
-                                <img src="/noticiaprincipal.jpg" alt="Notícia" class="rounded"></img>
+                            <div class="self-center md:self-end">
+                                <img src="/enem.jpg" alt="Notícia" class="rounded"></img>
                             </div>
                         </div>
                     </li>
