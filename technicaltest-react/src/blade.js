@@ -43,11 +43,11 @@ function Blade() {
                     <li>
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-4 shadow-md p-6 items-end md:flex-row md:flex-col">
                             <div class="self-start">
-                                <h2 class="text-3xl font-bold mb-2">Passo a passo: como consultar local de prova do Enem</h2>
+                                <h2 class="text-3xl font-bold mb-2">Reforma tributária: economistas criticam exceções, mas defendem aprovação</h2>
                                 <span class="text-gray-500">Out 31, 2023</span>
                             </div>                                
                             <div class="self-center md:self-end">
-                                <img src="/enem.jpg" alt="Notícia" class="rounded"></img>
+                                <img src="/reforma-tributaria.jpg" alt="Notícia" class="rounded"></img>
                             </div>
                         </div>
                     </li>
