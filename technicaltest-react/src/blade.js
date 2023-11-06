@@ -25,7 +25,7 @@ function Blade() {
                                 <span class="text-gray-500" >Out 31, 2023</span>
                             </div>                                
                             <div class="self-center md:self-end">
-                                <img src="/noticiaprincipal.jpg" alt="Notícia" class="rounded"></img>
+                                <img src="/israel-palestinians.jpg" alt="Notícia" class="rounded"></img>
                             </div>
                         </div>
                     </li>
